@@ -25,7 +25,7 @@
     </parent>
     <groupId>org.kill-bill.billing</groupId>
     <artifactId>killbill-oss-parent</artifactId>
-    <version>0.140.50-SNAPSHOT</version>
+    <version>0.140.54-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Kill Bill OSS Parent</name>
     <description>Parent pom for Kill Bill projects</description>
@@ -102,9 +102,9 @@
         <killbill-base-plugin.version>1.2.3</killbill-base-plugin.version>
         <killbill-client.version>0.40.10</killbill-client.version>
         <!-- This should point to the latest non-SNAPSHOT version of commons -->
-        <killbill-commons-for-tests.version>0.20.15</killbill-commons-for-tests.version>
-        <killbill-commons.version>0.20.15</killbill-commons.version>
-        <killbill-platform.version>0.36.13</killbill-platform.version>
+        <killbill-commons-for-tests.version>0.20.17</killbill-commons-for-tests.version>
+        <killbill-commons.version>0.20.17</killbill-commons.version>
+        <killbill-platform.version>0.36.15</killbill-platform.version>
         <killbill-plugin-api.version>0.23.1</killbill-plugin-api.version>
         <logback.version>1.2.3</logback.version>
         <metrics-palominolabs.version>3.2.1</metrics-palominolabs.version>
