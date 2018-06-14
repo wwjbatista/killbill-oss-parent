@@ -1,3 +1,52 @@
+0.141.78
+    Update killbill-base-plugin -> 2.3.2
+
+0.141.77
+    Update Jooby to 1.4.0
+
+0.141.76
+    Update killbill-client -> 1.0.3 and killbill-api -> 0.51.23
+
+0.141.75
+    Update killbill-client -> 1.0.2
+
+0.141.74
+    Update killbill-platform -> 0.37.15
+
+0.141.73
+    Update killbill-commons -> 0.21.14
+
+0.141.72
+    Update TestNG -> 6.14.3
+    Add org.jasypt:jasypt:1.9.2
+
+0.141.71
+    Update killbill-client -> 1.0.1
+
+0.141.70
+    Update killbill-api -> 0.51.22
+
+0.141.69
+    Update killbill-client -> 1.0.0
+
+0.141.68
+    Update killbill-api -> 0.51.21
+
+0.141.67
+    Update killbill-commons -> 0.21.13
+
+0.141.66
+    Update killbill-base-plugin -> 2.3.1
+
+0.141.65
+    Update killbill-client -> 0.41.13
+
+0.141.64
+    Update killbill-api -> 0.51.20 and killbill-commons -> 0.21.12
+
+0.141.63
+    Update killbill-api -> 0.51.19
+
 0.141.62
     Update killbill-api -> 0.51.18 and killbill-client -> 0.41.12
 
